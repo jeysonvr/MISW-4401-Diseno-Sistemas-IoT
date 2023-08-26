@@ -5,5 +5,5 @@
 
 Este repositorio contiene el código para el cumplimiento de los diferentes retos que se desarrollarán semana a semana en la asignatura.
 
-## Semana 2:
-Se incluye código para captura, tratamiento y transmisión de datos de humedad, temperatura y luminosidad.
+## Semana 3:
+Se incluye código utilizado en simulación de cupcarbon para la comunicación de nodos sensores. (Reto capa de comunicación)
