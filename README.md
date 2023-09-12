@@ -12,3 +12,7 @@ Rama: reto-capa-dispositivo
 ## Semana 3:
 Se incluye código utilizado en simulación de cupcarbon para la comunicación de nodos sensores. (Reto capa de comunicación)
 Rama: reto-capa-comunicacion
+
+## Semana 5:
+Se incluye código modificado para la entrega de datos para las aplicaciones Postgre y Timescale. En las dos aplicaciones se incluyen dos endpoints (`stationJson/` y `stationJson/<str:station>`) para la obtención de datos referentes a una estación tales como su localización, y un arreglo de los diferentes tipos de datos medidos (ej. Temperatura y Humedad) con sus respectivos valores máximo, mínimo, promedio y cantidad de datos tomados. (Reto cada de datos)
+Rama: reto-capa-datos
